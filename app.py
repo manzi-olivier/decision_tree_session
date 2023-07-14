@@ -49,7 +49,7 @@ def main():
     if st.button("About"):
       st.text("Developed by Deepak Moud")
       st.text("Trainer , Machine Learning")
-      st.text("Deployed by Olivier Manzi Data Science Student")
+      st.text("Deployed by Olivier Manzi, Data Science Student")
 
 if __name__=='__main__':
   main()
